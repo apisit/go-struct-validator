@@ -3,7 +3,7 @@ I built this for personal use to validate struct. it only validates string and s
 
 adding validator:"require" to your struct property like the example below.
 
-go get https://github.com/apisit/go-json-validator
+go get https://github.com/apisit/go-struct-validator
 
   example.
 
